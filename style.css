@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightgrey
+}
+
+.bodywrapper {
+    width: 70%;
+    margin-inline: auto
+}
+
+h1 {
+ font-size: 4rem;
+ margin-block: 2rem;
+ margin-left: 2rem;
+}
+
+.listed-projects {
+    text-decoration: underline;
+    color: black;
+}
+
+.listed-projects:hover {
+    color: brown;
+}
+
+
+
+
